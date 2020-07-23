@@ -1,4 +1,6 @@
 ## About Techmike2kx aka Mike Martin
+![Visitor Count](https://profile-counter.glitch.me/t2kx/count.svg)
+
 ### The Microsoft Life
 As a Microsoft Technical Evangelist, Mike is an Azure goto for ISV’s (independent software vendors). He’s been active in the IT industry for more than 20 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics, they even call him the perfect hybrid solution. 
 
@@ -34,3 +36,4 @@ Next to tech Mike is also a big Batman Fan
                ~$$$.                   $$$.                  .$$$~
                  '$;.                  `$'                  .;$'
                     '.                  !                  .`
+
