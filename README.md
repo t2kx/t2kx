@@ -10,7 +10,7 @@ In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure Use
 Helping out in the community and introducing new & young people into the world of Microsoft and technology is also one of his passions.
 
 ### Life outside IT
-Next to tech Mike is also a big Batman Fan 
+Next to tech, Mike is also a big Batman Fan 
 
                    ..oo$00ooo..                    ..ooo00$oo..
                 .o$$$$$$$$$'                          '$$$$$$$$$o.
