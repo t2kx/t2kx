@@ -4,7 +4,7 @@
 ### The Microsoft Life
 As a Microsoft Technical Evangelist, Mike is an Azure goto for ISV’s (independent software vendors). He’s been active in the IT industry for more than 20 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics, they even call him the perfect hybrid solution. 
 ### The GitHub Life
-
+[![Build and deploy .NET Core app to Windows WebApp blazordockazday](https://github.com/T2Kx-Org/blazordock/actions/workflows/blazordock.yml/badge.svg)](https://github.com/T2Kx-Org/blazordock/actions/workflows/blazordock.yml)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=t2kx&show_icons=true&theme=algolia)
 
 
